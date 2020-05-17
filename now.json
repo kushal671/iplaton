@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "env": {
+    "GATSBY_SHOP_NAME": "iplaton",
+    "GATSBY_SHOPIFY_ACCESS_TOKEN": "fb0752c75649e6ebc94077f5cc3834c8",
+    "GATSBY_PRISMIC_REPOSITORY": "papercart"
+  },
+  "build": {
+    "env": {
+      "GATSBY_SHOP_NAME": "iplaton",
+      "GATSBY_SHOPIFY_ACCESS_TOKEN": "fb0752c75649e6ebc94077f5cc3834c8",
+      "GATSBY_PRISMIC_REPOSITORY": "papercart"
+    }
+  }
+}
